@@ -1,0 +1,5 @@
+/home/jacqueline/F-sharp/InheritanceAndCasting/InheritanceAndCasting/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.fs
+/home/jacqueline/F-sharp/InheritanceAndCasting/InheritanceAndCasting/bin/Debug/InheritanceAndCasting.exe.mdb
+/home/jacqueline/F-sharp/InheritanceAndCasting/InheritanceAndCasting/bin/Debug/InheritanceAndCasting.exe
+/home/jacqueline/F-sharp/InheritanceAndCasting/InheritanceAndCasting/obj/x86/Debug/InheritanceAndCasting.exe
+/home/jacqueline/F-sharp/InheritanceAndCasting/InheritanceAndCasting/obj/x86/Debug/InheritanceAndCasting.exe.mdb
